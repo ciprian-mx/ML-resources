@@ -21,7 +21,7 @@
 *Core predictive modeling.*
 - [ ] Scikit-learn (Pipelines, Model Selection, Cross-Validation)
 - [ ] Model Evaluation Metrics (Accuracy, F1-Score, ROC-AUC, MSE)
-- [X] Linear Regression
+- [ ] Linear Regression
 - [ ] Confusion Matrix
 - [ ] Cross Validation
 - [ ] Logisitic Regression
