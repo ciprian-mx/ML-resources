@@ -2,11 +2,11 @@
 
 ## Phase 1: Mathematics & Prerequisites
 *The foundational math required to understand how algorithms optimize and learn.*
-- [ ] Python Programming Basics 
-- [ ] Linear Algebra
-- [ ] Calculus (Derivatives, Gradients, Chain Rule)
+- [X] Python Programming Basics 
+- [X] Linear Algebra
+- [X] Calculus (Derivatives, Gradients, Chain Rule)
 - [ ] Probabilities (Distributions, Bayes Theorem, Hypothesis Testing)
-- [ ] Numerical Computation
+- [X] Numerical Computation
 
 ## Phase 2: Data Handling & Visualization
 *Tools for cleaning, exploring, and preparing your data.*
@@ -21,14 +21,14 @@
 *Core predictive modeling.*
 - [ ] Scikit-learn (Pipelines, Model Selection, Cross-Validation)
 - [ ] Model Evaluation Metrics (Accuracy, F1-Score, ROC-AUC, MSE)
-- [ ] Linear Regression
-- [ ] Confusion Matrix
-- [ ] Cross Validation
-- [ ] Logisitic Regression
+- [X] Linear Regression
+- [X] Confusion Matrix
+- [X] Cross Validation
+- [X] Logisitic Regression
 - [ ] Decision Trees
 - [ ] Random forests
 - [ ] Gradient Boosting (XGBoost, LightGBM)
-- [ ] SVM
+- [ ] SVM (Support Vector Machines)
 - [ ] Unsupervised Learning (K-Means Clustering, PCA for dimensionality reduction)
 
 ## Phase 4: Deep Learning & Modern AI
